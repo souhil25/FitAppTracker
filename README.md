@@ -14,7 +14,7 @@ A full-stack fitness tracking web application built with React and Node.js.
 - Tailwind CSS
 
 ## Live Demo
-https://yourusername.github.io/fitapp
+https://souhil25.github.io/fitapp
 
 ## Installation
 cd client
