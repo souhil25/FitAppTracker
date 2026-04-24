@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/fitapp",
-
+  "homepage": "https://souhil25.github.io/FitAppTracker",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -13,7 +12,6 @@
     "preview": "vite preview",
     "lint": "eslint ."
   },
-
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
     "axios": "^1.15.1",
@@ -28,7 +26,6 @@
     "tailwind-variants": "^3.2.2",
     "tailwindcss": "^4.1.18"
   },
-
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/node": "^24.12.2",
